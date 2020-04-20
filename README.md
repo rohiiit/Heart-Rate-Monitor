@@ -1,4 +1,4 @@
-# android_heart_rate_monitor
+
 ### Heart rate monitor app for android
 
 <table>
