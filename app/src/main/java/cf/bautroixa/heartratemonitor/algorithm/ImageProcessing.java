@@ -2,7 +2,7 @@ package cf.bautroixa.heartratemonitor.algorithm;
 
 public abstract class ImageProcessing {
     /**
-     * stackoverflow. input: sequence of pixel pixels from camera. output is the total number of red pixels.
+     * input: sequence of pixel pixels from camera. output is the total number of red pixels.
      * @param yuv420sp
      *            Byte array representing a yuv420sp image
      * @param width
